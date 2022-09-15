@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[976],{1606:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/new-chart",function(){return u(2555)}])}},function(n){n.O(0,[395,524,714,669,763,715,774,888,179],(function(){return _=1606,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
